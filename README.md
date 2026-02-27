@@ -1,5 +1,3 @@
-# dockerPractice
-
 Docker practice exercises completed through the boot.dev platform.
 
 This project includes:
